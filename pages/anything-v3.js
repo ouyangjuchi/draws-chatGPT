@@ -59,6 +59,7 @@ export default function Home() {
         <h1>
         使用 AI 绘画动漫图
         </h1>
+        <a href="https://fanyi.baidu.com/">汉译英</a>
         {/* <p>
           输入英文关键词进行生成图片。
         </p> */}
